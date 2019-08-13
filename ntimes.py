@@ -1,6 +1,6 @@
 a=int(input())
-count=0
-while(count<a):
-    count=count+1
+n=0
+while(n<a):
+    n=n+1
     print("Hello")
     
