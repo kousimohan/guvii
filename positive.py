@@ -1,0 +1,9 @@
+a=float(input())
+if(a>0):
+    print("Postive")
+elif(a<0):
+    print("Negative")
+elif(a==0):
+    print("zero")
+else:
+    print("invalid")
